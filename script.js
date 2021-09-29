@@ -21,7 +21,6 @@ var canConstruct = function(ransomNote, magazine) {
             {return false}
         map.set(character, map.get(character) - 1 )
         map[ransomNote[character]]--;
-          // console.log("character", character, "value", map.get(character))
             
     }
     return true;   
