@@ -3,6 +3,7 @@
  * @param {string} magazine
  * @return {boolean}
  */
+//testing
 Input: ransomNote = "aa", magazine = "aab"
 Output: true
 var canConstruct = function(ransomNote, magazine) {
